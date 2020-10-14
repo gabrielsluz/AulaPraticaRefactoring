@@ -7,5 +7,6 @@ public class Main {
     
     System.out.printf("Nome do Customer = %s \n",c.getName());
     System.out.printf("Statement Customer = %s \n",c.statement());
+    System.out.printf("HtmlStatement Customer = %s \n",c.htmlStatement());
   }
 }
